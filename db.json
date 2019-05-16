@@ -1,31 +1,13 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "diaporama":{
+    "title":"Vue-Js",
+    "subtitle":"REx",
+    "diapositives":[
+      {
+        "id":0,
+        "title":"Test diapo",
+        "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus maximus pharetra consequat. Nullam vitae maximus orci. Nulla molestie laoreet tristique. Pellentesque a tempus elit. Suspendisse pretium et lorem a luctus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur turpis erat, venenatis et pulvinar nec, sagittis vel arcu. Nunc ullamcorper elit at quam laoreet commodo. Sed nunc sapien, fringilla sed ex a, dictum volutpat ante. Morbi diam diam, commodo ut facilisis vitae, commodo nec nunc. Vivamus eu arcu ut est semper vestibulum eu et ante. Cras eleifend lorem et euismod luctus. Praesent rutrum maximus pulvinar."
+      }
+      ]
   }
 }
