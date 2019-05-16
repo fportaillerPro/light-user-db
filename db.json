@@ -1,22 +1,22 @@
 {
-  "accounts":[
+  "accounts": [
     {
-    "id":0,
-    "name":"Aquaman",
-    "login":"aquaman",
-    "password":"password123"
+      "id": 0,
+      "name": "Aquaman",
+      "login": "aquaman",
+      "password": "password123"
     },
     {
-    "id":1,
-    "name":"Wonderwoman",
-    "login":"wonderwoman",
-    "password":"1want2break3"
+      "id": 1,
+      "name": "Wonderwoman",
+      "login": "wonderwoman",
+      "password": "1want2break3"
     },
     {
-    "id":2,
-    "name":"Batman",
-    "login":"Batman",
-    "password":"IamBatman"
+      "id": 2,
+      "name": "Batman",
+      "login": "Batman",
+      "password": "IamBatman"
     }
   ]
 }
